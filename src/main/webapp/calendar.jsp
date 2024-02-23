@@ -244,13 +244,13 @@
 		</th>
 	</tr>
 	<tr>
-		<th id="sunday">일</th>
-		<th>월</th>
-		<th>화</th>
-		<th>수</th>
-		<th>목</th>
-		<th>금</th>
-		<th id="saturday">토</th>
+		<th id="sunday">Sunday</th>
+		<th>Monday</th>
+		<th>Tuesday</th>
+		<th>Wednesday</th>
+		<th>Thursday</th>
+		<th>Friday</th>
+		<th id="saturday">Saturday</th>
 	</tr>
 	<!-- 달력에 날짜를 출력 -->
 	<tr align="center">
